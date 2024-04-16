@@ -75,6 +75,7 @@ nav li a{
     font-size: 16px;
     font-weight: 700;
     margin-top: 5px;
+    border: none;
 }
 
 .banner-img{
@@ -160,3 +161,36 @@ nav li a{
     font-size: 16px;
     font-weight: 700;
 }
+
+/* box style  */
+
+.box-container{
+    display: flex;
+    margin-left: 165px;
+    margin-right: 165px;
+    gap: 95px;
+}
+
+.box-title{
+    color: #0A0826;
+    font-size: 38px;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.box-description{
+    color: #6C6C6C;
+    font-size: 16px;
+    font-weight: 700;
+    width: 500px;
+}
+
+.btn-x{
+    background: #E02C6D;  
+    padding: 10px 24px;
+    color: #FFF;
+    border: none;
+}
+
+/* main section end  */
+
