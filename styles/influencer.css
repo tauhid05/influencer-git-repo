@@ -146,3 +146,17 @@ nav li a{
     color: #787885;
     margin-bottom: 17px;
 }
+
+/* more style  */
+
+.more{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.see-more{
+    text-align: end;
+    margin-right: 200px;
+    color: rgba(224, 44, 109, 0.87);
+    font-size: 16px;
+    font-weight: 700;
+}
