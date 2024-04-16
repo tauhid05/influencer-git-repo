@@ -194,3 +194,35 @@ nav li a{
 
 /* main section end  */
 
+/* footer section style  */
+
+footer{
+    background: #0A0826;
+    margin-top: 100px;
+    
+}
+
+.footer-container{
+    padding: 50px;
+    text-align: center;
+}
+
+.footer-title{
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 3px;
+
+}
+
+.footer-description{
+    color: #D9DBE1;
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 17px;
+}
+
+.footer-container i{
+    color: #FFFFFF;
+    margin-right: 16px;
+}
